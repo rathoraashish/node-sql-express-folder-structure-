@@ -1,0 +1,18 @@
+# .gitignore file
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
